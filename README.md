@@ -47,5 +47,6 @@ To run this project locally, follow these steps:
 ## Demo
 You can access the live demo of the Car Price Prediction System [here](https://car-price-predictor-xw4prp6sk42kn37ymv9ny3.streamlit.app/)
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## License
+This project is licensed under the GNU General Public License v2.0 License. See the LICENSE file for more details.
